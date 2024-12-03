@@ -306,4 +306,40 @@ The goal of this portion of the lab is to setup an Active Directory domain with 
 
 1. Open VMWare Workstation and create a new Virtual Machine with the "Typical (recommended)" setting.
 
-![Windows Server 2022](img/NARN.png)
+![Windows Server 2022](img/37.png)
+
+2. Do not worry about a product key, click "Next" and then "Yes".
+
+3. Put in Windows Server 2022 as the VM name and select "Next"
+
+4. Allocate a minimum of 60GB disk size then click "Next".
+
+5. Click "Customise Hardware" -> Increase Processors to 2 -> Change memory to 2GB -> Add and assign the network adapter to Vmnet3 .
+
+![Windows Server 2022 Hardware Customisation](img/38.png)
+
+7. Click "Finish".
+
+8. Edit the virtual machine again and remove the floppy drive.
+
+9. Power on the VM and immediately click any key.
+
+10. Click "Next" and then "Install".
+
+![Windows Server 2022 Start Install](img/39.png)
+
+11. Select the "Windows Server 2019 Standard Evaluation (Desktop Experience)" and click "Next".
+
+12. Accept the terms and conditions and click "Next".
+
+13. Select "Custom Install" -> "New" -> "Apply" -> "Okay" -> "Next"
+
+![Windows Server 2022 Installing](img/40.png)
+
+14. Once complete, create a password and then click "Finish".
+
+![Windows Server 2022 First Screen](img/41.png)
+
+15. Login with your new password. You will come to the following screen:
+
+![Windows Server 2022 Password](img/42.png)
