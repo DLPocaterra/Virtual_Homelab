@@ -343,3 +343,7 @@ The goal of this portion of the lab is to setup an Active Directory domain with 
 15. Login with your new password. You will come to the following screen:
 
 ![Windows Server 2022 Password](img/42.png)
+
+16. Go to the "Settings" app and rename the PC -> Reboot PC.
+
+![Windows Server 2022 Rename](img/43.png)
